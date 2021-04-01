@@ -1,20 +1,3 @@
 .img-circle { 
   border-radius: 50%;
 }
-
-.list-inline {
-	list-style: none; /* kill the bullet points */
-	padding-left: 0px; /* kill remaining padding left */
-}
-.list-inline > li {
-	display: inline; /* change list item behavior to inline */
-	padding: 0px 20px; /* add som left/right padding between list items */
-}
-
-.list-inline i {
-	font-size: 40px;
-	transition: transform 0.3s;
-}
-.list-inline i:hover {
-	transform: scale(1.3,1.3);
-}
